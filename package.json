@@ -1,0 +1,15 @@
+{
+  "name": "myfirstelectron",
+  "version": "1.0.0",
+  "description": "my first electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "make test"
+  },
+  "author": "zjd",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
